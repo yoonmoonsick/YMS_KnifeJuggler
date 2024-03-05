@@ -12,9 +12,9 @@ Quickly throws a dagger, damaging the enemy and causing bleeding. After throwing
 
 The intricate dagger-throwing tricks cause your concentration to waver, leading to a decrease in Dexterity by 2 for the remaining turn.
 
-## Progression - Cunning Action: Throw
+## Progression
 
-Rogue gets "Cunning Action: Throw" at Level 2.
+Rogue Level 2: Unlock "Cunning Action: Throw". Unarmed attacks now use Dexterity modifiers instead of Strength modifiers for attack and damage.
 
 ## 재주 - 단검 곡예사
 
@@ -28,6 +28,6 @@ Rogue gets "Cunning Action: Throw" at Level 2.
 
 복잡한 단검 던지기 기술로 인해 집중력이 흐트러지고 남은 턴 동안 민첩이 2 감소합니다.
 
-## 레벨 진행 - 영악한 행동: 던지기
+## 레벨 진행
 
-로그 레벨 2에 "영악한 행동: 던지기"를 얻습니다.
+로그 레벨 2: "영악한 행동: 던지기"를 얻습니다. 비무장 공격의 명중 및 피해에 근력 보정치 대신 민첩 보정치를 사용합니다.
