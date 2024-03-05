@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Rogue cunning actions"/>
+          <attribute id="Spells" type="LSString" value="Shout_Hide_BonusAction;Shout_Dash_CunningAction;Shout_Disengage_CunningAction;YMS_Throw_Throw_CunningAction"/>
+          <attribute id="UUID" type="guid" value="2dc120ff-903b-494b-8dc8-38721098ce38"/>
+      </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3b13a7145e284d55b223f742b08fd9e1ff23" version="1">단검 곡예사</content>
+	<content contentuid="hdf29ca7c6bba4fdd8397b5b8962eac844230" version="1">&lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt;이 1 증가하고, &lt;LSTag Tooltip="Acrobatics"&gt;곡예&lt;/LSTag&gt; 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt;을 유발하는 기술을 습득합니다. 이 기술은 &lt;LSTag Type="Spell" Tooltip="YMS_Throw_KnifeJuggler_Action"&gt;행동&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="YMS_Throw_KnifeJuggler_BonusAction"&gt;보조 행동&lt;/LSTag&gt;, 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Throw_KnifeJuggler_ReactionAction"&gt;대응&lt;/LSTag&gt;을 사용합니다. 이 기술을 통해 단검을 투척할 때 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;과 피해 굴림에 민첩 &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;가 더해집니다.</content>
+	<content contentuid="hafc185244ff9439d8966e3908893202ae66e" version="1">단검 던지기 (행동)</content>
+	<content contentuid="h9b62bbc95b1b4e0689f03dc99cd00ece8acd" version="1">단검 던지기 (보조 행동)</content>
+	<content contentuid="hbad705fd623f45e5be96e75e6cdd98583g3d" version="1">단검 던지기 (대응)</content>
+	<content contentuid="h1a785c7ee0da4e96806a67896922f71774b1" version="1">재빠르게 단검을 투척하여 적에게 피해를 주고 &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt;을 유발합니다. 던진 후 &lt;LSTag Type="Status" Tooltip="KNIFE_THROW_PENALTY"&gt;단검 곡예 피로&lt;/LSTag&gt;상태에 빠집니다.</content>
+	<content contentuid="ha834766c9dd6448eb88f31e15ea17a3fc9e2" version="1">단검 곡예 피로</content>
+	<content contentuid="hc6ff9adad7c140b5abfd8f4b362252e23b92" version="1">복잡한 단검 던지기 기술로 인해 집중력이 흐트러지고 남은 턴 동안 민첩이 2 감소합니다.</content>
+	<content contentuid="h768bb7f245e04cefbf4cb82a7b21d8876e3c" version="1">영악한 행동: 던지기</content>
+</contentList>

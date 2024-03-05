@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+		<version major="4" minor="0" revision="9" build="322"/>
+		<region id="Feats">
+				<node id="root">
+						<children>
+								<node id="Feat">
+										<attribute id="Name" type="FixedString" value="YMS_KnifeJuggler"/>
+										<attribute id="PassivesAdded" type="LSString" value="YMS_Passive_KnifeJuggler"/>
+										<attribute id="UUID" type="guid" value="95653496-982c-4e28-a551-bf62bfa503a1"/>
+								</node>
+						</children>
+				</node>
+		</region>
+</save>
