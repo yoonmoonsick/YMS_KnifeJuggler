@@ -14,7 +14,7 @@ The intricate dagger-throwing tricks cause your concentration to waver, leading 
 
 ## Progression
 
-Rogue Level 2: Unlock "Cunning Action: Throw". Unarmed attacks now use Dexterity modifiers instead of Strength modifiers for attack and damage.
+Rogue Level 2: Unlock "Cunning Action: Throw". Unarmed attacks now use Dexterity modifiers instead of Strength modifiers for attack and damage when Str < Dex.
 
 ## Item
 
@@ -34,7 +34,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ## 레벨 진행
 
-로그 레벨 2: "영악한 행동: 던지기"를 얻습니다. 비무장 공격의 명중 및 피해에 근력 보정치 대신 민첩 보정치를 사용합니다.
+로그 레벨 2: "영악한 행동: 던지기"를 얻습니다. 비무장 공격의 명중 및 피해에 근력 보다 민첩이 높은 경우 근력 보정치 대신 민첩 보정치를 사용합니다.
 
 ## 아이템
 

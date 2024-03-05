@@ -11,4 +11,6 @@
 	<content contentuid="h768bb7f245e04cefbf4cb82a7b21d8876e3c" version="1">영악한 행동: 던지기</content>
 	<content contentuid="h7e63f372f0f742efaac378aeb3473f6ag58a" version="1">회귀하는 응보자</content>
 	<content contentuid="h4d89e98f0f6b45e8906976ee6cd8c9a9eb0a" version="1">회귀하는 응보자는 주로 단일 대상을 정확히 타격한 후 주인에게 돌아오도록 설계되었습니다. 그러나 이 단검은 때때로 주인의 손을 떠나 그 자리에 남아있을 수 있으며, 이는 단검이 에너지를 재충전하고 주인과의 연결을 더욱 강화하는 시간으로 여겨집니다. 소유자는 단검이 돌아오지 않을 때를 대비하여 늘 준비하고 있어야 하며, 이러한 불확실성을 통해 단검과의 유대를 강화할 수 있습니다.</content>
+	<content contentuid="h1077b2277c5a4b78b6f416471e08bf00a593" version="1">영악한 행동: 던지기</content>
+	<content contentuid="h02a927d702e641709af5c312b58ba58565df" version="1">민첩이 근력보다 높으면, 던지기 공격이 &lt;LSTag Tooltip="Strength"&gt;근력&lt;/LSTag&gt;이 아니라 &lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt;에 비례해 강해집니다.</content>
 </contentList>

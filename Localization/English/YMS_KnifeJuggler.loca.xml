@@ -11,4 +11,6 @@
 	<content contentuid="h768bb7f245e04cefbf4cb82a7b21d8876e3c" version="1">Cunning Action: Throw</content>
 	<content contentuid="h7e63f372f0f742efaac378aeb3473f6ag58a" version="1">The Boomerang Blade</content>
 	<content contentuid="h4d89e98f0f6b45e8906976ee6cd8c9a9eb0a" version="1">The Boomerang Blade is designed to precisely hit a single target before returning to its owner. However, there are instances where the dagger may choose to remain at its landing spot, considered a period for the weapon to recharge its energy and strengthen its bond with the wielder. Owners must always be prepared for the possibility of the blade not returning, using this unpredictability to fortify their connection with the dagger.</content>
+	<content contentuid="h1077b2277c5a4b78b6f416471e08bf00a593" version="1">Cunning Action: Throw</content>
+	<content contentuid="h02a927d702e641709af5c312b58ba58565df" version="1">Throwing attacks scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher.</content>
 </contentList>
