@@ -16,6 +16,10 @@ The intricate dagger-throwing tricks cause your concentration to waver, leading 
 
 Rogue Level 2: Unlock "Cunning Action: Throw". Unarmed attacks now use Dexterity modifiers instead of Strength modifiers for attack and damage.
 
+## Item
+
+Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Camp or obtained from the Tutorial Chest.
+
 ## 재주 - 단검 곡예사
 
 민첩이 1 증가하고, 곡예 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 출혈을 유발하는 기술을 습득합니다. 이 기술은 행동, 보조 대응을 사용합니다. 이 기술을 통해 단검을 투척할 때 명중 굴림과 피해 굴림에 민첩 보정치가 더해집니다.
@@ -31,3 +35,7 @@ Rogue Level 2: Unlock "Cunning Action: Throw". Unarmed attacks now use Dexterity
 ## 레벨 진행
 
 로그 레벨 2: "영악한 행동: 던지기"를 얻습니다. 비무장 공격의 명중 및 피해에 근력 보정치 대신 민첩 보정치를 사용합니다.
+
+## 아이템
+
+회귀하는 응보자를 추가합니다. 고블린 야영지의 고블린 상인에게서 구매하거나 튜토리얼 상자에서 획득할 수 있습니다.

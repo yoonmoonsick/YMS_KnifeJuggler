@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h7e63f372f0f742efaac378aeb3473f6ag58a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4d89e98f0f6b45e8906976ee6cd8c9a9eb0a" version="1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d24378c9-7d4a-4ae2-b464-f415fc1fdecd" />
+					<attribute id="Icon" type="FixedString" value="Item_DEC_HAG_Totem_Props_Dagger_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="631f06ad-cb75-4c4d-80dc-677d43d45a71" />
+					<attribute id="Name" type="LSString" value="YMS_MAG_Throwable_Dagger" />
+					<attribute id="Stats" type="FixedString" value="YMS_MAG_Throwable_Dagger" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="72057594037927946" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
