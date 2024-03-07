@@ -7,7 +7,7 @@
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h7e63f372f0f742efaac378aeb3473f6ag58a" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h4d89e98f0f6b45e8906976ee6cd8c9a9eb0a" version="1" />
-					<attribute id="ParentTemplateId" type="FixedString" value="cd50dd17-b1ed-4e8d-8825-ffc1e3cc19e0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="258ce9f3-3f32-4546-ae6e-196b3e8e91b5" />
 					<attribute id="Icon" type="FixedString" value="Item_DEC_HAG_Totem_Props_Dagger_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="631f06ad-cb75-4c4d-80dc-677d43d45a71" />
