@@ -2,7 +2,7 @@
 
 ## Feat - Knife Juggler
 
-Your Dexterity increases by 1, and you achieve expertise in Acrobatics. You gain a specialized ability to throw a dagger, causing bleeding in your target. This ability can be activated as an Action, Bonus Action, or Reaction. When you throw a dagger using this skill, your Dexterity modifier is applied to both the attack roll and the damage roll.
+Your Dexterity increases by 1, and you achieve expertise in Acrobatics. You gain a specialized ability to throw a dagger, causing bleeding in your target. This ability can be activated as an Action, Bonus Action, or Reaction. With this Feat, when you throw a dagger, you add your Dexterity modifier to the hit roll, minus your Strength modifier. If you hit, you add your Dexterity modifier to the damage.
 
 ### Spell - Throw Dagger (Action), Throw Dagger (Bonus Action), Throw Dagger (Reaction)
 
@@ -10,7 +10,7 @@ Quickly throws a dagger, damaging the enemy and causing bleeding. After throwing
 
 ### Status - Knife Juggling Fatigue
 
-The intricate dagger-throwing tricks cause your concentration to waver, leading to a decrease in Dexterity by 2 for the remaining turn.
+The intricate dagger-throwing tricks cause your concentration to waver, leading to a decrease in Dexterity by 1 for the remaining turn.
 
 ## Progression
 
@@ -22,7 +22,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ## 재주 - 단검 곡예사
 
-민첩이 1 증가하고, 곡예 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 출혈을 유발하는 기술을 습득합니다. 이 기술은 행동, 보조 대응을 사용합니다. 이 기술을 통해 단검을 투척할 때 명중 굴림과 피해 굴림에 민첩 보정치가 더해집니다.
+민첩이 1 증가하고, 곡예 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 출혈을 유발하는 기술을 습득합니다. 이 기술은 행동, 보조 행동, 대응을 사용합니다. 이 재주를 통해 단검을 투척할 때 명중 굴림에 민첩 보정치가 더하고 근력 보정치를 뺀 값이 더해집니다. 명중하면 피해에 민첩 보정치를 더합니다.
 
 ### 주문 - 단검 던지기 (행동), 단검 던지기 (보조 행동), 단검 던지기 (대응)
 
@@ -30,7 +30,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ### 상태 - 단검 곡예 피로
 
-복잡한 단검 던지기 기술로 인해 집중력이 흐트러지고 남은 턴 동안 민첩이 2 감소합니다.
+복잡한 단검 던지기 기술로 인해 집중력이 흐트러지고 남은 턴 동안 민첩이 1 감소합니다.
 
 ## 레벨 진행
 
