@@ -64,7 +64,7 @@ data "StatusType" "BOOST"
 data "DisplayName" "ha834766c9dd6448eb88f31e15ea17a3fc9e2"
 data "Description" "hc6ff9adad7c140b5abfd8f4b362252e23b92"
 data "Icon" "GenericIcon_Intent_Debuff"
-data "Boosts" "Ability(Dexterity,-1)"
+data "Boosts" "Ability(Dexterity,-2)"
 data "RemoveEvents" "OnTurn"
 
 new entry "YMS_Throw_Throw_CunningAction"
