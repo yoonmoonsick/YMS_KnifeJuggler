@@ -10,7 +10,7 @@ Quickly throws a dagger, damaging the enemy and causing bleeding. After throwing
 
 ### Status - Knife Juggling Fatigue
 
-The intricate dagger-throwing tricks cause your concentration to waver, leading to a decrease in Dexterity by 1 for the remaining turn.
+The intricate dagger-throwing tricks, leading to a decrease in Dexterity by 1 for the remaining turn.
 
 ## Progression
 
@@ -30,7 +30,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ### 상태 - 단검 곡예 피로
 
-복잡한 단검 던지기 기술로 인해 집중력이 흐트러지고 남은 턴 동안 민첩이 1 감소합니다.
+복잡한 단검 던지기 기술로 남은 턴 동안 민첩이 1 감소합니다.
 
 ## 레벨 진행
 
