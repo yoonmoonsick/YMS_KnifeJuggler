@@ -2,7 +2,7 @@
 
 ## Feat - Knife Juggler
 
-Your Dexterity increases by 1, and you achieve expertise in Acrobatics. You gain a specialized ability to throw a dagger, causing bleeding in your target. This ability can be activated as an Action, Bonus Action, or Reaction. With this Feat, when you throw a dagger, you add your Dexterity modifier to the hit roll, minus your Strength modifier. If you hit, you add your Dexterity modifier to the damage.
+Your Dexterity increases by 1, and you achieve expertise in Acrobatics. You gain a specialized ability to throw a dagger, causing bleeding in your target. This ability can be activated as an Action, Bonus Action, or Reaction. With this Feat, when you throw or stab a dagger, you add your Dexterity modifier and minus your Strength modifier to the hit roll and damage roll.
 
 ### Spells
 
@@ -23,7 +23,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ## 재주 - 단검 곡예사
 
-민첩이 1 증가하고, 곡예 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 출혈을 유발하는 기술을 습득합니다. 이 기술은 행동, 보조 행동, 대응을 사용합니다. 이 재주를 통해 단검을 투척할 때 명중 굴림에 민첩 보정치가 더하고 근력 보정치를 뺀 값이 더해집니다. 명중하면 피해에 민첩 보정치를 더합니다.
+민첩이 1 증가하고, 곡예 기술에 통달합니다. 단검을 투척해 적을 정교하게 공격하고 출혈을 유발하는 기술을 습득합니다. 이 기술은 행동, 보조 행동, 대응을 사용합니다. 이 재주를 통해 단검을 투척하거나 단검으로 찌를 때 명중 굴림과 피해 굴림에 민첩 보정치가 더하고 근력 보정치를 뺍니다.
 
 ### 주문
 
