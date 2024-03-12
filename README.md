@@ -6,7 +6,7 @@ Your Dexterity increases by 1, and you achieve expertise in Acrobatics. You gain
 
 ### Spells
 
-- Throw Dagger (Action), Throw Dagger (Bonus Action), Throw Dagger (Reaction) : Quickly throws a dagger, damaging the enemy and causing bleeding. After throwing a dagger, you go into Knife Juggling Fatigue.
+- Throw Dagger (Action), Throw Dagger (Bonus Action), Throw Dagger (Reaction) : Quickly throws a dagger, damaging the enemy and causing bleeding. After throwing a dagger, you go into Knife Juggling Fatigue. The spell obtained from this feat traces the same trajectory as the dagger's arrow thrown.
 - Main-hand Dagger Stab, Off-hand Dagger Stab: ake a melee attack causing bleeding with your dagger. After stabbing a dagger, you go into Knife Juggling Fatigue. You must be equipped with a dagger to use it.
 
 ### Status - Knife Juggling Fatigue
@@ -27,7 +27,7 @@ Add Boomerang blade. It can be purchased from the Goblin Trader at the Goblin Ca
 
 ### 주문
 
-- 단검 던지기 (행동), 단검 던지기 (보조 행동), 단검 던지기 (대응): 재빠르게 단검을 투척하여 적에게 피해를 주고 출혈을 유발합니다. 던진 후 단검 곡예 피로 상태에 빠집니다.
+- 단검 던지기 (행동), 단검 던지기 (보조 행동), 단검 던지기 (대응): 재빠르게 단검을 투척하여 적에게 피해를 주고 출혈을 유발합니다. 던진 후 단검 곡예 피로 상태에 빠집니다. 이 재주로 얻은 주문을 통해 던진 단검의 화살과 같은 궤적을 그립니다.
 - 주무기 단검 찌르기, 보조무기 단검 찌르기: 단검으로 출혈을 유발하는 공격을 합니다. 공격 후 단검 곡예 피로 상태에 빠집니다. 단검을 착용해야 사용할 수 있습니다.
 
 ### 상태 - 단검 곡예 피로

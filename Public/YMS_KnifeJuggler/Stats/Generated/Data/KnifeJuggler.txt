@@ -20,6 +20,8 @@ data "UseCosts" "ActionPoint:1"
 data "VerbalIntent" "Utility"
 data "DamageType" "Piercing"
 data "TooltipStatusApply" "ApplyStatus(BLEEDING,100,1);ApplyStatus(KNIFE_THROW_PENALTY,100,1)"
+data "SpellFlags" "InventorySelection;RangeIgnoreVerticalThreshold;IsHarmful;HasHighGroundRangeExtension;IgnoreSilence;IgnoreVisionBlock;AddFallDamageOnLand;AbortOnSecondarySpellRollFail;CombatLogSetSingleLineRoll"
+data "Trajectories" "ff93ba9c-124c-454e-ac8c-436c136bcef2,75d615be-9277-6e22-6c17-fa51981d7560,8c00238b-549d-dc71-8fcb-42ba68bae142"
 
 new entry "YMS_Throw_KnifeJuggler_BonusAction"
 type "SpellData"
